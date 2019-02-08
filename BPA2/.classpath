@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul.Ranjan/Downloads/Selenium_Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
